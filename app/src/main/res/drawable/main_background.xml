@@ -10,7 +10,7 @@
         android:color="#000" />
     <corners android:topLeftRadius="800dp"
         android:bottomRightRadius="300dp"
-        android:bottomLeftRadius="100dp"/>
+        android:bottomLeftRadius="150dp"/>
 
 
 </shape>
